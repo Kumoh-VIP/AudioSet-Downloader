@@ -10,7 +10,7 @@ Toolkit for downloading raw audio files from AudioSet.
 
 To download files from AudioSet for class "bird" 
 ```	
-python3 process.py download -c "bird"
+python process.py download -c "bird"
 ```
 Downloads audio files to a folder `output/bird` in current directory.
 
